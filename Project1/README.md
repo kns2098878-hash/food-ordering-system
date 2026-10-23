@@ -1,4 +1,10 @@
-# 🍽️ Foodie – Food Ordering & Restaurant Reservation System
+# 🍽️ Foodie – Food Ordering & Restaurant Reservation System (Project 1)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project1%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1)
+
+> 🔗 **Direct GitHub Link:** [https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1)
+
+---
 
 Foodie is a full-stack web-based Food Ordering and Restaurant Reservation System that allows customers to browse restaurants, view menus, add food items to a cart, place orders, reserve tables, and manage their orders and reservations.
 

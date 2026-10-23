@@ -1,9 +1,11 @@
 # 🍽️ Foodie — Food Ordering & Restaurant Reservation System
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Main%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/kns2098878-hash/food-ordering-system)
+
 This repository contains two projects:
 
-- **[`Project1/`](./Project1/)**: The original food ordering and restaurant reservation system.
-- **[`Project2/`](./Project2/)**: The advanced, production-style food ordering and reservation system with normalized 22-table schema, digital wallet, loyalty rewards tier engine, live order tracking, modular Flask Blueprints, and React 19 UI.
+- 🔗 **[`Project1/ (Original Project)`](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1)**: The original food ordering and restaurant reservation system.
+- 🔗 **[`Project2/ (Advanced Project)`](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2)**: The advanced, production-style food ordering and reservation system with normalized 22-table schema, digital wallet, loyalty rewards tier engine, live order tracking, modular Flask Blueprints, and React 19 UI.
 
 ---
 
@@ -27,6 +29,10 @@ food-ordering-system/
     └── README.md
 ```
 
-For detailed setup and run instructions, refer to the README inside each project folder:
-- [Project1 Documentation](./Project1/README.md)
-- [Project2 Documentation](./Project2/README.md)
+---
+
+## 🔗 Direct Online GitHub Links
+
+- 🌐 **Repository Root:** [https://github.com/kns2098878-hash/food-ordering-system](https://github.com/kns2098878-hash/food-ordering-system)
+- 📁 **Project 1:** [https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project1)
+- 📁 **Project 2:** [https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2)

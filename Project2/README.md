@@ -1,5 +1,9 @@
 # 🍽️ Project2 — Foodie Advanced Food Ordering & Restaurant Reservation System
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project2%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2)
+
+> 🔗 **Direct GitHub Link:** [https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2](https://github.com/kns2098878-hash/food-ordering-system/tree/main/Project2)
+
 > Complete production-style full-stack academic project with normalized 22-table database schema + advanced upgrade, Flask REST API with Blueprints, React 19 + Vite frontend, JWT auth, digital wallet, loyalty tier engine, live order tracking, and pytest test suite.
 
 ---
